@@ -1,0 +1,44 @@
+{
+  "entries": {
+    "tap": {
+      "homebrew/core": {
+        "revision": "f06fee2b254d5f422a87a91ca5531e1dd999b94d"
+      },
+      "homebrew/bundle": {
+        "revision": "0df097ca87d3bcf762d0f8cbe30eed8c37c35786"
+      },
+      "homebrew/cask": {
+        "revision": "b0cfe756f4710f71e717cf7017aaac25f164b5b7"
+      },
+      "homebrew/cask-versions": {
+        "revision": "bd1b62d54272136a8fe4057daafa65707e96f2f8"
+      }
+    },
+    "cask": {
+      "anydesk": {
+        "version": "6.1.4",
+        "options": {
+          "full_name": "anydesk"
+        }
+      },
+      "firefox-developer-edition": {
+        "version": "latest",
+        "options": {
+          "full_name": "firefox-developer-edition"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "big_sur": {
+        "HOMEBREW_VERSION": "3.1.2",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "f06fee2b254d5f422a87a91ca5531e1dd999b94d",
+        "CLT": "12.4.0.0.1.1610135815",
+        "Xcode": "12.0",
+        "macOS": "11.2.3"
+      }
+    }
+  }
+}
