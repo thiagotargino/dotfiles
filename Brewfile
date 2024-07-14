@@ -1,5 +1,4 @@
 tap "homebrew/bundle"
-tap "homebrew/cask-versions"
 
 cask "anydesk"
 cask "appcleaner"
@@ -8,7 +7,7 @@ cask "brave-browser"
 cask "coconutbattery"
 cask "dropbox"
 cask "firefox"
-cask "firefox-developer-edition"
+cask "firefox@developer-edition"
 cask "flux"
 cask "gimp"
 cask "google-chrome"
@@ -49,5 +48,5 @@ mas "skitch", id: 425955336
 mas "telegram", id: 747648890
 mas "ticktick", id: 966085870
 mas "twitter", id: 1482454543
-mas "whatsapp", id: 1147396723
+mas "whatsapp", id: 310633997
 mas "winrar", id: 1537056818

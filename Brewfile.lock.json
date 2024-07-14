@@ -5,7 +5,7 @@
         "revision": "f06fee2b254d5f422a87a91ca5531e1dd999b94d"
       },
       "homebrew/bundle": {
-        "revision": "0df097ca87d3bcf762d0f8cbe30eed8c37c35786"
+        "revision": "d807c0555358f3a1be7647cbaf4b0bf5c7b1f830"
       },
       "homebrew/cask": {
         "revision": "b0cfe756f4710f71e717cf7017aaac25f164b5b7"
@@ -16,7 +16,7 @@
     },
     "cask": {
       "anydesk": {
-        "version": "6.1.4",
+        "version": "8.1.0",
         "options": {
           "full_name": "anydesk"
         }
@@ -26,7 +26,242 @@
         "options": {
           "full_name": "firefox-developer-edition"
         }
+      },
+      "appcleaner": {
+        "version": "3.6.8",
+        "options": {
+          "full_name": "appcleaner"
+        }
+      },
+      "bitwarden": {
+        "version": "2024.6.4",
+        "options": {
+          "full_name": "bitwarden"
+        }
+      },
+      "brave-browser": {
+        "version": "1.67.123.0",
+        "options": {
+          "full_name": "brave-browser"
+        }
+      },
+      "coconutbattery": {
+        "version": "3.9.17,C29E0D4F",
+        "options": {
+          "full_name": "coconutbattery"
+        }
+      },
+      "dropbox": {
+        "version": "203.4.4857",
+        "options": {
+          "full_name": "dropbox"
+        }
+      },
+      "firefox": {
+        "version": "128.0",
+        "options": {
+          "full_name": "firefox"
+        }
+      },
+      "firefox@developer-edition": {
+        "version": "129.0b3",
+        "options": {
+          "full_name": "firefox@developer-edition"
+        }
+      },
+      "flux": {
+        "version": "42.2",
+        "options": {
+          "full_name": "flux"
+        }
+      },
+      "gimp": {
+        "version": "2.10.38,1",
+        "options": {
+          "full_name": "gimp"
+        }
+      },
+      "google-chrome": {
+        "version": "126.0.6478.127",
+        "options": {
+          "full_name": "google-chrome"
+        }
+      },
+      "insomnia": {
+        "version": "9.3.2",
+        "options": {
+          "full_name": "insomnia"
+        }
+      },
+      "iterm2": {
+        "version": "3.5.3",
+        "options": {
+          "full_name": "iterm2"
+        }
+      },
+      "itsycal": {
+        "version": "0.15.4",
+        "options": {
+          "full_name": "itsycal"
+        }
+      },
+      "libreoffice": {
+        "version": "24.2.5",
+        "options": {
+          "full_name": "libreoffice"
+        }
+      },
+      "local": {
+        "version": "9.0.5,6706",
+        "options": {
+          "full_name": "local"
+        }
+      },
+      "logi-options-plus": {
+        "version": "1.76.583666",
+        "options": {
+          "full_name": "logi-options-plus"
+        }
+      },
+      "macs-fan-control": {
+        "version": "1.5.16",
+        "options": {
+          "full_name": "macs-fan-control"
+        }
+      },
+      "mamp": {
+        "version": "6.9",
+        "options": {
+          "full_name": "mamp"
+        }
+      },
+      "meld": {
+        "version": "3.21.0-r3,19",
+        "options": {
+          "full_name": "meld"
+        }
+      },
+      "microsoft-edge": {
+        "version": "126.0.2592.102,1b908367-b53d-4e9b-91cc-27dbb310a2b5",
+        "options": {
+          "full_name": "microsoft-edge"
+        }
+      },
+      "mysqlworkbench": {
+        "version": "8.0.38",
+        "options": {
+          "full_name": "mysqlworkbench"
+        }
+      },
+      "omnidisksweeper": {
+        "version": "1.14",
+        "options": {
+          "full_name": "omnidisksweeper"
+        }
+      },
+      "onyx": {
+        "version": "4.5.9",
+        "options": {
+          "full_name": "onyx"
+        }
+      },
+      "raycast": {
+        "version": "1.78.1",
+        "options": {
+          "full_name": "raycast"
+        }
+      },
+      "sequel-pro": {
+        "version": "1.1.2",
+        "options": {
+          "full_name": "sequel-pro"
+        }
+      },
+      "skype": {
+        "version": "8.123.0.203",
+        "options": {
+          "full_name": "skype"
+        }
+      },
+      "slack": {
+        "version": "4.39.90",
+        "options": {
+          "full_name": "slack"
+        }
+      },
+      "spotify": {
+        "version": "1.2.41.434,39a25e2c,374",
+        "options": {
+          "full_name": "spotify"
+        }
+      },
+      "stats": {
+        "version": "2.11.1",
+        "options": {
+          "full_name": "stats"
+        }
+      },
+      "stremio": {
+        "version": "4.4.168",
+        "options": {
+          "full_name": "stremio"
+        }
+      },
+      "the-unarchiver": {
+        "version": "4.3.8,146,1715865652",
+        "options": {
+          "full_name": "the-unarchiver"
+        }
+      },
+      "transmission": {
+        "version": "4.0.6",
+        "options": {
+          "full_name": "transmission"
+        }
+      },
+      "transnomino": {
+        "version": "8.5.1",
+        "options": {
+          "full_name": "transnomino"
+        }
+      },
+      "visual-studio-code": {
+        "version": "1.91.1",
+        "options": {
+          "full_name": "visual-studio-code"
+        }
+      },
+      "vlc": {
+        "version": "3.0.21",
+        "options": {
+          "full_name": "vlc"
+        }
+      },
+      "warp": {
+        "version": "0.2024.07.09.08.01.stable_00",
+        "options": {
+          "full_name": "warp"
+        }
+      },
+      "zeplin": {
+        "version": "10.6.0",
+        "options": {
+          "full_name": "zeplin"
+        }
       }
+    },
+    "mas": {
+      "amphetamine": null,
+      "colorslurp": null,
+      "evernote": null,
+      "magnet": null,
+      "outlook": null,
+      "skitch": null,
+      "telegram": null,
+      "ticktick": null,
+      "twitter": null,
+      "whatsapp": null,
+      "winrar": null
     }
   },
   "system": {
@@ -38,6 +273,14 @@
         "CLT": "12.4.0.0.1.1610135815",
         "Xcode": "12.0",
         "macOS": "11.2.3"
+      },
+      "sonoma": {
+        "HOMEBREW_VERSION": "4.3.9",
+        "HOMEBREW_PREFIX": "/opt/homebrew",
+        "Homebrew/homebrew-core": "api",
+        "CLT": "15.3.0.0.1.1708646388",
+        "Xcode": "15.4",
+        "macOS": "14.5"
       }
     }
   }
