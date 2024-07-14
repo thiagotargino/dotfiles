@@ -90,7 +90,6 @@ brew install lua
 brew install lynx
 brew install mackup
 brew install node
-brew install nvm
 brew install p7zip
 brew install pigz
 brew install pv
