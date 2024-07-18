@@ -42,9 +42,9 @@ mas "amphetamine", id: 937984704
 mas "bitwarden", id: 1352778147
 mas "colorslurp", id: 1287239339
 mas "evernote", id: 406056744
+mas "iscreen-shoter-screenshot-app", id: 1596559494
 mas "magnet", id: 441258766
 mas "outlook", id: 985367838
-mas "skitch", id: 425955336
 mas "telegram", id: 747648890
 mas "ticktick", id: 966085870
 mas "twitter", id: 1482454543
