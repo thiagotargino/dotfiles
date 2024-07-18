@@ -2,7 +2,6 @@ tap "homebrew/bundle"
 
 cask "anydesk"
 cask "appcleaner"
-cask "bitwarden"
 cask "brave-browser"
 cask "coconutbattery"
 cask "dropbox"
@@ -40,6 +39,7 @@ cask "warp"
 cask "zeplin"
 
 mas "amphetamine", id: 937984704
+mas "bitwarden", id: 1352778147
 mas "colorslurp", id: 1287239339
 mas "evernote", id: 406056744
 mas "magnet", id: 441258766

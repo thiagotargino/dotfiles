@@ -5,7 +5,7 @@
         "revision": "f06fee2b254d5f422a87a91ca5531e1dd999b94d"
       },
       "homebrew/bundle": {
-        "revision": "d807c0555358f3a1be7647cbaf4b0bf5c7b1f830"
+        "revision": "160fe4627b8916fcb48e4c46de723f5f0c6074cc"
       },
       "homebrew/cask": {
         "revision": "b0cfe756f4710f71e717cf7017aaac25f164b5b7"
@@ -16,7 +16,7 @@
     },
     "cask": {
       "anydesk": {
-        "version": "8.1.0",
+        "version": "8.1.1",
         "options": {
           "full_name": "anydesk"
         }
@@ -40,7 +40,7 @@
         }
       },
       "brave-browser": {
-        "version": "1.67.123.0",
+        "version": "1.67.134.0",
         "options": {
           "full_name": "brave-browser"
         }
@@ -64,7 +64,7 @@
         }
       },
       "firefox@developer-edition": {
-        "version": "129.0b3",
+        "version": "129.0b5",
         "options": {
           "full_name": "firefox@developer-edition"
         }
@@ -82,7 +82,7 @@
         }
       },
       "google-chrome": {
-        "version": "126.0.6478.127",
+        "version": "126.0.6478.183",
         "options": {
           "full_name": "google-chrome"
         }
@@ -118,7 +118,7 @@
         }
       },
       "logi-options-plus": {
-        "version": "1.76.583666",
+        "version": "1.78.588966",
         "options": {
           "full_name": "logi-options-plus"
         }
@@ -130,7 +130,7 @@
         }
       },
       "mamp": {
-        "version": "6.9",
+        "version": "7.0",
         "options": {
           "full_name": "mamp"
         }
@@ -166,7 +166,7 @@
         }
       },
       "raycast": {
-        "version": "1.78.1",
+        "version": "1.79.0",
         "options": {
           "full_name": "raycast"
         }
@@ -196,7 +196,7 @@
         }
       },
       "stats": {
-        "version": "2.11.1",
+        "version": "2.11.2",
         "options": {
           "full_name": "stats"
         }
@@ -261,7 +261,8 @@
       "ticktick": null,
       "twitter": null,
       "whatsapp": null,
-      "winrar": null
+      "winrar": null,
+      "bitwarden": null
     }
   },
   "system": {
